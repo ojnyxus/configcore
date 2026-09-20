@@ -1,4 +1,5 @@
-# ConfigCore
+![w](https://raw.githubusercontent.com/ojnyxus/configcore/refs/heads/main/031d7b998391b3559709ddae1221243573bd9f87_350.jpg)
+# config core
 
 [English](#english) · [Polski](#polski)
 
