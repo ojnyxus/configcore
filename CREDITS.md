@@ -1,0 +1,2 @@
+- Glitch Stalker model: "THE_ENTITY" by nori - https://blockbenchworkshop.com/model/nori/the-entity - CC BY 4.0 (modified: converted to GeckoLib format, animations renamed/adjusted).
+- Libraries: Fabric API, GeckoLib.
