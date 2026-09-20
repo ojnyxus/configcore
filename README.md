@@ -63,7 +63,7 @@ Only `safeMode` has an effect. Set it to `true` to disable the horror features. 
 Requires JDK 21.
 
 ```bash
-git clone https://github.com/<your-username>/ConfigCore.git
+git clone https://github.com/ojnyxus/ConfigCore.git
 cd ConfigCore
 ./gradlew build        # Windows: gradlew.bat build
 ```
@@ -157,7 +157,7 @@ Działa tylko `safeMode`. Ustaw `true`, żeby wyłączyć horror. Pozostałe pol
 Wymaga JDK 21.
 
 ```bash
-git clone https://github.com/<your-username>/ConfigCore.git
+git clone https://github.com/ojnyxus/ConfigCore.git
 cd ConfigCore
 ./gradlew build        # Windows: gradlew.bat build
 ```
